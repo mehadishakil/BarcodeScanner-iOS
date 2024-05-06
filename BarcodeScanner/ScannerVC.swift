@@ -1,9 +1,3 @@
-//
-//  ScannerVC.swift
-//  BarcodeScanner
-//
-//  Created by Abdul Momin on 21/4/24.
-//
 
 import Foundation
 import AVFoundation
